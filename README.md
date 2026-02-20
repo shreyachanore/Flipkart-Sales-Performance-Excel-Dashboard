@@ -1,4 +1,6 @@
-#  Flipkart Sales Performance Dashboard | Excel Data Analysis Project  ## Project Overview
+#  Flipkart Sales Performance Dashboard | Excel Project 
+
+## Project Overview
 
 This project presents an interactive Flipkart Sales & Performance Dashboard built using Microsoft Excel.
 
@@ -26,7 +28,7 @@ Raw Data → Data Cleaning → Data Analysis → Dashboard Creation → Business
 
 ##  Dashboard Preview  
 
-![Flipkart Dashboard](Dashboard_Overview.png)
+![Flipkart Dashboard](Flipkartdashboard.png.png)
 
 
 ##  Business Insights Generated  
